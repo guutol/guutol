@@ -32,8 +32,8 @@
 <h3><samp>/projects</samp></h3>
 
 - **[Vigil](https://github.com/guutol/vigil-trophies-source)** — aplicativo em Go que sincroniza troféus de ports de PC e emuladores com o Vigil Trophies. Windows, Linux e Steam Deck.
-- **[PCStore ERP](https://github.com/guutol/pcstore-erp)** — sistema em Java com JDBC e banco relacional para gerenciar produtos, estoque, compras e vendas.
-- **[Bomfrio](https://github.com/guutol/bromfrio-landing-page)** — site institucional responsivo em React para uma empresa de refrigeração, com contato pelo WhatsApp.
+- **[Monetify](https://github.com/guutol/monetify-app)** — SaaS que transforma fotos de produtos em imagens profissionais com IA, com autenticação, créditos e pagamentos. Next.js, TypeScript e PostgreSQL.
+- **Asus Finance** — SaaS de gestão financeira com cálculo de lucro líquido real por venda. <sub>Código privado.</sub>
 
 ---
 
