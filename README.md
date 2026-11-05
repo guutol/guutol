@@ -31,8 +31,8 @@
 
 <h3><samp>/projects</samp></h3>
 
-- **[Vigil](https://github.com/guutol/vigil-trophies-source)** — aplicativo em Go que sincroniza troféus de ports de PC e emuladores com o Vigil Trophies. Windows, Linux e Steam Deck.
-- **Monetify** — SaaS que transforma fotos de produtos em imagens profissionais com IA, com autenticação, créditos e pagamentos. Next.js, TypeScript e PostgreSQL. <sub>Código privado.</sub>
+- **[Vigil](https://vigiltrophies.com)** — aplicativo em Go que sincroniza troféus de ports de PC e emuladores com o Vigil Trophies. Windows, Linux e Steam Deck.
+- **[Monetify](https://monetify-app.vercel.app)** — SaaS que transforma fotos de produtos em imagens profissionais com IA, com autenticação, créditos e pagamentos. Next.js, TypeScript e PostgreSQL. <sub>Código privado.</sub>
 - **Asus Finance** — SaaS de gestão financeira com cálculo de lucro líquido real por venda. <sub>Código privado.</sub>
 
 ---
