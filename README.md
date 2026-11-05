@@ -18,6 +18,15 @@
   </picture>
 </a>
 
+<p><samp>mensageria & integração · RabbitMQ</samp></p>
+
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rabbitmq&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" alt="RabbitMQ">
+  </picture>
+</a>
+
 <p><samp>web & ferramentas · TypeScript, JavaScript, React, Next.js e Git</samp></p>
 
 <a href="https://skillicons.dev">
