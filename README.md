@@ -9,12 +9,12 @@
 
 <h3><samp>/stacks</samp></h3>
 
-<p><samp>back-end & dados · Java, Spring Boot, MySQL, PostgreSQL e Go</samp></p>
+<p><samp>back-end & dados · Java, Spring Boot, MySQL e PostgreSQL</samp></p>
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go&amp;theme=light&amp;perline=5">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go&amp;theme=dark&amp;perline=5" alt="Java, Spring Boot, MySQL, PostgreSQL e Go">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cmysql%2Cpostgres&amp;theme=light&amp;perline=5">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres&amp;theme=dark&amp;perline=5" alt="Java, Spring Boot, MySQL e PostgreSQL">
   </picture>
 </a>
 
@@ -31,7 +31,7 @@
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,git&amp;theme=light&amp;perline=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cgit&amp;theme=light&amp;perline=5">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,git&amp;theme=dark&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js e Git">
   </picture>
 </a>
