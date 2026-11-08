@@ -9,39 +9,10 @@
 
 <h3><samp>/stacks</samp></h3>
 
-<p><samp>back-end & dados · Java, Spring Boot, MySQL, PostgreSQL, Go, Rust e C++</samp></p>
-
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp&amp;theme=light&amp;perline=7">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp&amp;theme=dark&amp;perline=7" alt="Java, Spring Boot, MySQL, PostgreSQL, Go, Rust e C++">
-  </picture>
-</a>
-
-<p><samp>mensageria & integração · RabbitMQ</samp></p>
-
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rabbitmq&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" alt="RabbitMQ">
-  </picture>
-</a>
-
-<p><samp>web · TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js e Tailwind CSS</samp></p>
-
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,tailwind&amp;theme=light&amp;perline=8">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,tailwind&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js e Tailwind">
-  </picture>
-</a>
-
-<p><samp>ferramentas · Git, GitHub, Vercel e Linux</samp></p>
-
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vercel,linux&amp;theme=light">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,linux&amp;theme=dark" alt="Git, GitHub, Vercel e Linux">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp,rabbitmq,ts,js,html,css,react,nextjs,nodejs,tailwind,git,github,vercel,linux&amp;theme=light&amp;perline=10">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp,rabbitmq,ts,js,html,css,react,nextjs,nodejs,tailwind,git,github,vercel,linux&amp;theme=dark&amp;perline=10" alt="Java, Spring Boot, MySQL, PostgreSQL, Go, Rust, C++, RabbitMQ, TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js, Tailwind, Git, GitHub, Vercel e Linux">
   </picture>
 </a>
 
