@@ -9,10 +9,30 @@
 
 <h3><samp>/stacks</samp></h3>
 
+<p><samp>back-end & dados · Java, Spring Boot, MySQL, PostgreSQL e Go</samp></p>
+
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp,rabbitmq,ts,js,html,css,react,nextjs,nodejs,tailwind,git,github,vercel,linux&amp;theme=light&amp;perline=10">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp,rabbitmq,ts,js,html,css,react,nextjs,nodejs,tailwind,git,github,vercel,linux&amp;theme=dark&amp;perline=10" alt="Java, Spring Boot, MySQL, PostgreSQL, Go, Rust, C++, RabbitMQ, TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js, Tailwind, Git, GitHub, Vercel e Linux">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go&amp;theme=light&amp;perline=5">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go&amp;theme=dark&amp;perline=5" alt="Java, Spring Boot, MySQL, PostgreSQL e Go">
+  </picture>
+</a>
+
+<p><samp>mensageria & integração · RabbitMQ</samp></p>
+
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rabbitmq&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=rabbitmq&amp;theme=dark" alt="RabbitMQ">
+  </picture>
+</a>
+
+<p><samp>web & ferramentas · TypeScript, JavaScript, React, Next.js e Git</samp></p>
+
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,git&amp;theme=light&amp;perline=5">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,git&amp;theme=dark&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js e Git">
   </picture>
 </a>
 
