@@ -9,12 +9,12 @@
 
 <h3><samp>/stacks</samp></h3>
 
-<p><samp>back-end & dados · Java, Spring Boot, MySQL, PostgreSQL e Go</samp></p>
+<p><samp>back-end & dados · Java, Spring Boot, MySQL, PostgreSQL, Go, Rust e C++</samp></p>
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go&amp;theme=light&amp;perline=5">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go&amp;theme=dark&amp;perline=5" alt="Java, Spring Boot, MySQL, PostgreSQL e Go">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp&amp;theme=light&amp;perline=7">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,go,rust,cpp&amp;theme=dark&amp;perline=7" alt="Java, Spring Boot, MySQL, PostgreSQL, Go, Rust e C++">
   </picture>
 </a>
 
@@ -27,12 +27,21 @@
   </picture>
 </a>
 
-<p><samp>web & ferramentas · TypeScript, JavaScript, React, Next.js e Git</samp></p>
+<p><samp>web · TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js e Tailwind CSS</samp></p>
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,git&amp;theme=light&amp;perline=5">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,git&amp;theme=dark&amp;perline=5" alt="TypeScript, JavaScript, React, Next.js e Git">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,tailwind&amp;theme=light&amp;perline=8">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,tailwind&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Node.js e Tailwind">
+  </picture>
+</a>
+
+<p><samp>ferramentas · Git, GitHub, Vercel e Linux</samp></p>
+
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vercel,linux&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,linux&amp;theme=dark" alt="Git, GitHub, Vercel e Linux">
   </picture>
 </a>
 
